@@ -1,4 +1,4 @@
-package io.recipies
+package io.recipes
 
 def path = "."
 File logDir = new File(path)
